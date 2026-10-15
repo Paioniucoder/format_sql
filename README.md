@@ -13,7 +13,7 @@ Em comandos `INSERT`, os valores recebem comentários com os nomes das colunas c
 ## Requisitos
 
 - Windows 10 ou Windows 11
-- Python
+- Python (se usando o script. Para windows, baixe o executável)
 
 ## Autor
 
